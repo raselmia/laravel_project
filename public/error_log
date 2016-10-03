@@ -1,0 +1,45 @@
+[22-Aug-2016 10:16:04 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/talentsassociate/laravel/app/Http/Controllers/BasicController.php on line 60
+[22-Aug-2016 10:16:18 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/talentsassociate/laravel/app/Http/Controllers/BasicController.php on line 60
+[30-Aug-2016 19:44:50 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Log' not found in /home/talentsassociate/laravel/app/Http/Controllers/BasicController.php on line 50
+[31-Aug-2016 08:08:16 UTC] PHP Parse error:  syntax error, unexpected '::' (T_PAAMAYIM_NEKUDOTAYIM) in /home/talentsassociate/laravel/app/Http/Controllers/BasicController.php on line 47
+[31-Aug-2016 08:19:11 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/talentsassociate/laravel/storage/framework/views/ea9f9812e9d2ef44f466549e6efce3661f6ec2f4.php on line 31
+[31-Aug-2016 08:58:45 UTC] PHP Fatal error:  Class 'session' not found in /home/talentsassociate/laravel/storage/framework/views/ea9f9812e9d2ef44f466549e6efce3661f6ec2f4.php on line 25
+[31-Aug-2016 09:01:12 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'The use statement with non-compound name 'session' has no effect' in /home/talentsassociate/laravel/storage/framework/views/ea9f9812e9d2ef44f466549e6efce3661f6ec2f4.php:2
+Stack trace:
+#0 /home/talentsassociate/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(42): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'The use stateme...', '/home/talentsas...', 2, Array)
+#1 /home/talentsassociate/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(42): Illuminate\View\Engines\PhpEngine::evaluatePath()
+#2 /home/talentsassociate/laravel/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/talentsas...', Array)
+#3 /home/talentsassociate/laravel/vendor/laravel/framework/src/Illuminate/View/View.php(149): Illuminate\View\Engines\CompilerEngine->get('/home/talentsas...', Array)
+#4 /home/talentsassociate/laravel/vendor/laravel/frame in /home/talentsassociate/laravel/storage/framework/views/ea9f9812e9d2ef44f466549e6efce3661f6ec2f4.php on line 2
+[31-Aug-2016 09:01:12 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF) in /home/talentsassociate/laravel/storage/framework/views/ea9f9812e9d2ef44f466549e6efce3661f6ec2f4.php on line 37
+[31-Aug-2016 11:32:36 UTC] PHP Fatal error:  Class 'session' not found in /home/talentsassociate/laravel/storage/framework/views/9de958405bded9da43a2e4e80a0888326bd57b9d.php on line 1
+[01-Sep-2016 10:58:08 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/talentsassociate/laravel/app/Http/Controllers/ArticleController.php on line 76
+[01-Sep-2016 10:58:45 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/talentsassociate/laravel/app/Http/Controllers/ArticleController.php on line 75
+[01-Sep-2016 10:59:22 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/talentsassociate/laravel/app/Http/Controllers/ArticleController.php on line 76
+[01-Sep-2016 11:08:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/talentsassociate/laravel/storage/framework/views/d154ae870685648b9e3abb08499707423d40a68f.php on line 79
+[01-Sep-2016 11:59:44 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:00:24 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:01:13 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:02:26 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:02:31 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:28:51 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home/talentsassociate/laravel/app/Http/Controllers/ArticleController.php on line 3
+[01-Sep-2016 12:29:17 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:29:42 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:31:30 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:33:10 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:33:52 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/talentsassociate/laravel/app/Http/Controllers/ArticleController.php on line 171
+[01-Sep-2016 12:34:52 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:35:16 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:36:19 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:36:35 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:36:41 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 12:37:45 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/talentsassociate/laravel/storage/framework/views/1f9283e9aba6d70b459a138e08aea1cdb56b2cf3.php on line 29
+[01-Sep-2016 13:45:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/talentsassociate/laravel/storage/framework/views/d8d579cff4f1c5cb971632bf7657ca88a724c298.php on line 85
+[01-Sep-2016 13:54:26 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/talentsassociate/laravel/storage/framework/views/72c0d5e1d241a6b0cda7fb4f25b2942a81009287.php on line 20
+[01-Sep-2016 13:55:13 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/talentsassociate/laravel/storage/framework/views/72c0d5e1d241a6b0cda7fb4f25b2942a81009287.php on line 25
+[01-Sep-2016 13:55:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/talentsassociate/laravel/storage/framework/views/72c0d5e1d241a6b0cda7fb4f25b2942a81009287.php on line 25
+[02-Sep-2016 17:24:29 UTC] PHP Parse error:  syntax error, unexpected 'method' (T_STRING), expecting ')' in /home/talentsassociate/laravel/storage/framework/views/9d8975759e72d82a955aa61dab0b3b395b79a05c.php on line 29
+[02-Sep-2016 17:24:53 UTC] PHP Parse error:  syntax error, unexpected ''method'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/talentsassociate/laravel/storage/framework/views/9d8975759e72d82a955aa61dab0b3b395b79a05c.php on line 29
+[02-Sep-2016 17:25:19 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ')' in /home/talentsassociate/laravel/storage/framework/views/9d8975759e72d82a955aa61dab0b3b395b79a05c.php on line 50
+[02-Sep-2016 17:33:45 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/talentsassociate/laravel/storage/framework/views/9d8975759e72d82a955aa61dab0b3b395b79a05c.php on line 50
+[03-Sep-2016 16:53:06 UTC] PHP Parse error:  syntax error, unexpected ''required'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/talentsassociate/laravel/storage/framework/views/9d8975759e72d82a955aa61dab0b3b395b79a05c.php on line 73
